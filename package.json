@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-ew-it",
+  "version": "1.0.0",
+  "description": "Erick Wendel's NodeJs Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-pagnozi/nodejs-ew-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-pagnozi/nodejs-ew-it/issues"
+  },
+  "homepage": "https://github.com/victor-pagnozi/nodejs-ew-it#readme"
+}
